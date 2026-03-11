@@ -1,0 +1,1 @@
+from encapsulation.extract_class.after.after import CustomerProfileAfter
