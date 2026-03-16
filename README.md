@@ -16,6 +16,16 @@ Boas práticas comuns durante refactoring:
 
 Neste repositório, cada pasta apresenta exemplos de "before" e "after" para estudar técnicas de refactoring.
 
+---
+#### Dependências
+
+- Python 3.14.3
+- pytest==9.0.2
+
+Todos refactorings foram validados usando testes, então basta executar:
+
+```pytest .```
+
 ## Resumo sobre Refactoring
 
 Aqui guardei como espaço mais ludico para consulta simples do refactoring e listagem dos padrões.
